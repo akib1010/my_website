@@ -36,7 +36,7 @@ const Portfolio = () => {
             {
                 id:5,
                 src: port,
-                href: "https://github.com/akib1010/Portfolio",
+                href: "https://github.com/akib1010/my_website",
                 name: "Personal Portfolio"
             },
         ]
