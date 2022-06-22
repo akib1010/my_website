@@ -1,5 +1,5 @@
 import React from 'react'
-import myImage from "../assets/heroImage.JPG";
+import myImage from "../assets/heroImage.jpg";
 import {TbArrowRightCircle} from 'react-icons/tb';
 import {Link} from "react-scroll";
 
@@ -25,7 +25,7 @@ const Home = () => {
             </div>
             <div>
                 <img src={myImage} alt="Imagine a nice Pic"
-                className="rounded-2xl mx-auto w-2/3 md:w-full"/>
+                className="rounded-3xl mx-auto w-2/3 md:w-full p-3"/>
             </div>
         </div>
     </div>
