@@ -1,5 +1,5 @@
 import React from 'react'
-import myImage from "../assets/heroImage.jpg";
+import myImage from "../assets/heroImage.JPG";
 import {TbArrowRightCircle} from 'react-icons/tb';
 import {Link} from "react-scroll";
 
